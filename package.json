@@ -1,0 +1,21 @@
+{
+  "name": "backtoblack",
+  "displayName": "Back to Black",
+  "description": "The only true dark theme you were looking for",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Back to Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Back to Black-color-theme.json"
+      }
+    ]
+  }
+}
