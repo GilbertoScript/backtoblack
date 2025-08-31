@@ -3,7 +3,7 @@
   "publisher": "backtoblack",
   "displayName": "Back to Black",
   "description": "The only true dark theme you were looking for",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "logo.png",
   "engines": {
     "vscode": "^1.103.0"
