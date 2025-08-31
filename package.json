@@ -1,5 +1,6 @@
 {
   "name": "backtoblack",
+  "publisher": "backtoblack",
   "displayName": "Back to Black",
   "description": "The only true dark theme you were looking for",
   "version": "0.0.1",
@@ -10,6 +11,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertoScript/backtoblack.git"
+  },
   "contributes": {
     "themes": [
       {
