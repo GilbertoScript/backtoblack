@@ -6,6 +6,9 @@
     "editor.foreground": "#ffffff9f",
     "editorLineNumber.foreground": "#ffffff3b", // números comuns
     "editorLineNumber.activeForeground": "#ffffff9f", // número da linha atual (cursor)
+	"editorIndentGuide.background1": "#ffffff15",       // linhas inativas
+    "editorIndentGuide.activeBackground1": "#ffffff5e",
+	"editorRuler.foreground": "#ffffff15",
 
     // Sidebar
     "sideBar.background": "#000000",
