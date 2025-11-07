@@ -5,7 +5,7 @@
 <h1 align="center">Back to Black</h1>
 
 <p align="center">
-  <em>O único tema verdadeiramente escuro que você estava procurando</em>
+  <em>The only truly dark theme you were looking for</em>
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@
 
 <br />
 
-## 📖 Sobre
+## 📖 About
 
-**Back to Black** é um tema escuro minimalista e elegante para Visual Studio Code, projetado para desenvolvedores que buscam máximo contraste e foco durante longas sessões de código. Com fundo **verdadeiramente preto** (#000000) e tipografia cuidadosamente calibrada, este tema reduz o cansaço visual e proporciona uma experiência de codificação premium.
+**Back to Black** is a minimalist and elegant dark theme for Visual Studio Code, designed for developers seeking maximum contrast and focus during long coding sessions. With a **truly black** background (#000000) and carefully calibrated typography, this theme reduces eye strain and provides a premium coding experience.
 
 <br />
 
-## ✨ Características
+## ✨ Features
 
-- 🖤 **Preto Verdadeiro**: Fundo #000000 para máximo contraste e economia de bateria em telas OLED
-- 👁️ **Redução de Fadiga Visual**: Cores suaves e balanceadas que não agridem os olhos
-- 🎨 **Interface Consistente**: Todos os elementos da UI harmonizados em tons de preto e cinza
-- 📏 **Guias de Indentação Discretas**: Linhas verticais sutis que não distraem
-- 🔢 **Números de Linha Inteligentes**: Linha ativa em destaque para melhor navegação
-- ⚡ **Performance**: Tema leve e otimizado que não afeta o desempenho do editor
+- 🖤 **True Black**: #000000 background for maximum contrast and battery saving on OLED screens
+- 👁️ **Reduced Eye Strain**: Soft and balanced colors that don't hurt your eyes
+- 🎨 **Consistent Interface**: All UI elements harmonized in black and gray tones
+- 📏 **Discrete Indentation Guides**: Subtle vertical lines that don't distract
+- 🔢 **Smart Line Numbers**: Active line highlighted for better navigation
+- ⚡ **Performance**: Lightweight and optimized theme that doesn't affect editor performance
 
 <br />
 
@@ -47,101 +47,101 @@
 
 <br />
 
-## 📦 Instalação
+## 📦 Installation
 
 ### Via VSCode Marketplace
 
-1. Abra o Visual Studio Code
-2. Pressione `Ctrl+Shift+X` (Windows/Linux) ou `Cmd+Shift+X` (Mac) para abrir a aba de Extensões
-3. Pesquise por **"Back to Black"**
-4. Clique em **Instalar**
-5. Pressione `Ctrl+K Ctrl+T` e selecione **Back to Black**
+1. Open Visual Studio Code
+2. Press `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (Mac) to open the Extensions tab
+3. Search for **"Back to Black"**
+4. Click **Install**
+5. Press `Ctrl+K Ctrl+T` and select **Back to Black**
 
-### Instalação Manual
+### Manual Installation
 
-1. Baixe o arquivo `.vsix` da [página de releases](https://github.com/GilbertoScript/backtoblack/releases)
-2. No VSCode, pressione `Ctrl+Shift+P` e digite "Extensions: Install from VSIX"
-3. Selecione o arquivo baixado
-
-<br />
-
-## 🎯 Como Usar
-
-Após instalar a extensão:
-
-1. Abra a paleta de comandos com `Ctrl+Shift+P` (Windows/Linux) ou `Cmd+Shift+P` (Mac)
-2. Digite "Color Theme" e selecione **"Preferences: Color Theme"**
-3. Escolha **Back to Black** da lista
-4. Aproveite sua nova experiência de codificação! 🎉
-
-**Ou use o atalho rápido**: `Ctrl+K Ctrl+T` → Back to Black
+1. Download the `.vsix` file from the [releases page](https://github.com/GilbertoScript/backtoblack/releases)
+2. In VSCode, press `Ctrl+Shift+P` and type "Extensions: Install from VSIX"
+3. Select the downloaded file
 
 <br />
 
-## 🎨 Paleta de Cores
+## 🎯 How to Use
 
-O tema utiliza uma paleta cuidadosamente selecionada:
+After installing the extension:
 
-- **Fundo Principal**: `#000000` - Preto puro
-- **Texto Principal**: `#ffffff9f` - Branco com 62% de opacidade
-- **Elementos Ativos**: `#ffffff` - Branco puro para destaques
-- **Bordas e Separadores**: `#22222270` - Cinza escuro sutil
-- **Guias de Indentação**: `#ffffff15` - Extremamente discretas
+1. Open the command palette with `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac)
+2. Type "Color Theme" and select **"Preferences: Color Theme"**
+3. Choose **Back to Black** from the list
+4. Enjoy your new coding experience! 🎉
 
-<br />
-
-## 💡 Recomendações
-
-Para uma experiência ainda melhor, recomendamos:
-
-- **Fonte**: [JetBrains Mono](https://www.jetbrains.com/lp/mono/), [Fira Code](https://github.com/tonsky/FiraCode) ou [Cascadia Code](https://github.com/microsoft/cascadia-code)
-- **Ícones**: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- **Display**: Telas OLED aproveitam ao máximo o preto puro, economizando bateria
+**Or use the quick shortcut**: `Ctrl+K Ctrl+T` → Back to Black
 
 <br />
 
-## 🤝 Contribuindo
+## 🎨 Color Palette
 
-Contribuições são sempre bem-vindas! Se você encontrou um bug ou tem sugestões de melhorias:
+The theme uses a carefully selected palette:
 
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
+- **Main Background**: `#000000` - Pure black
+- **Main Text**: `#ffffff9f` - White with 62% opacity
+- **Active Elements**: `#ffffff` - Pure white for highlights
+- **Borders and Separators**: `#22222270` - Subtle dark gray
+- **Indentation Guides**: `#ffffff15` - Extremely discrete
 
-Ou simplesmente [abra uma issue](https://github.com/GilbertoScript/backtoblack/issues) com suas sugestões!
+<br />
+
+## 💡 Recommendations
+
+For an even better experience, we recommend:
+
+- **Font**: [JetBrains Mono](https://www.jetbrains.com/lp/mono/), [Fira Code](https://github.com/tonsky/FiraCode) or [Cascadia Code](https://github.com/microsoft/cascadia-code)
+- **Icons**: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- **Display**: OLED screens take full advantage of pure black, saving battery
+
+<br />
+
+## 🤝 Contributing
+
+Contributions are always welcome! If you found a bug or have suggestions for improvements:
+
+1. Fork the project
+2. Create a feature branch (`git checkout -b feature/MyFeature`)
+3. Commit your changes (`git commit -m 'Add MyFeature'`)
+4. Push to the branch (`git push origin feature/MyFeature`)
+5. Open a Pull Request
+
+Or simply [open an issue](https://github.com/GilbertoScript/backtoblack/issues) with your suggestions!
 
 <br />
 
 ## 📝 Changelog
 
 ### v1.1.0
-- Ajustes nas linhas verticais do editor
-- Melhorias na consistência visual
-- Atualização de documentação
+- Adjustments to editor vertical lines
+- Visual consistency improvements
+- Documentation updates
 
 ### v1.0.0
-- Lançamento inicial do Back to Black
+- Initial release of Back to Black
 
 <br />
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 <br />
 
-## 💖 Agradecimentos
+## 💖 Acknowledgments
 
-Obrigado a todos que usam e contribuem para o **Back to Black**!
+Thank you to everyone who uses and contributes to **Back to Black**!
 
-Se você gosta deste tema, considere dar uma ⭐ no [repositório](https://github.com/GilbertoScript/backtoblack)!
+If you like this theme, consider giving a ⭐ to the [repository](https://github.com/GilbertoScript/backtoblack)!
 
 <br />
 
 <p align="center">
-  <strong>Feito com 🖤 por <a href="https://github.com/GilbertoScript">GilbertoScript</a></strong>
+  <strong>Made with 🖤 by <a href="https://github.com/GilbertoScript">GilbertoScript</a></strong>
 </p>
 
 <p align="center">
