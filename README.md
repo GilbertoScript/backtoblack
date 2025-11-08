@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GilbertoScript/backtoblack">
-    <img src="https://img.shields.io/github/v/release/GilbertoScript/backtoblack?style=flat-square&color=black" alt="Version">
-  </a>
   <a href="https://github.com/GilbertoScript/backtoblack/stargazers">
     <img src="https://img.shields.io/github/stars/GilbertoScript/backtoblack?style=flat-square&color=black" alt="Stars">
   </a>
