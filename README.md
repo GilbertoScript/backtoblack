@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://backtoblack.vercel.app/">
+    <img src="https://img.shields.io/badge/website-backtoblack.vercel.app-black?style=flat-square" alt="Official Website">
+  </a>
   <a href="https://github.com/GilbertoScript/backtoblack/stargazers">
     <img src="https://img.shields.io/github/stars/GilbertoScript/backtoblack?style=flat-square&color=black" alt="Stars">
   </a>
@@ -142,6 +145,7 @@ If you like this theme, consider giving a ⭐ to the [repository](https://github
 </p>
 
 <p align="center">
+  <a href="https://backtoblack.vercel.app/">Website</a> •
   <a href="https://github.com/GilbertoScript/backtoblack">GitHub</a> •
   <a href="https://github.com/GilbertoScript/backtoblack/issues">Report Bug</a> •
   <a href="https://github.com/GilbertoScript/backtoblack/issues">Request Feature</a>
