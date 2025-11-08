@@ -5,7 +5,7 @@
 <h1 align="center">Back to Black</h1>
 
 <p align="center">
-  <em>The only truly dark theme you were looking for</em>
+  <em>The only true dark theme you were looking for</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 📖 About
 
-**Back to Black** is a minimalist and elegant dark theme for Visual Studio Code, designed for developers seeking maximum contrast and focus during long coding sessions. With a **truly black** background (#000000) and carefully calibrated typography, this theme reduces eye strain and provides a premium coding experience.
+**Back to Black** is a minimalist and elegant dark theme for Visual Studio Code, designed for developers seeking maximum contrast and focus during long coding sessions. With a **true black** background (#000000) and carefully calibrated typography, this theme reduces eye strain and provides a premium coding experience.
 
 <br />
 
